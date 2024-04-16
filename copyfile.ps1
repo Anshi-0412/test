@@ -1,5 +1,5 @@
 # Define the path of the source file in the Documents folder
-$sourceFilePath = "$env:USERPROFILE\Documents\example.txt"
+$sourceFilePath = "C:\Users\simmi\Downloads"
 
 # Define the path of the destination folder (Desktop)
 $destinationFolder = [Environment]::GetFolderPath("Desktop")
